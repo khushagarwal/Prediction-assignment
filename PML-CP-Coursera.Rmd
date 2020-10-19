@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning - Course Project - Coursera"
-author: "Ken W."
-date: "8/10/2018"
+author: "Khushboo Agarwal"
+date: "8/10/2020"
 output: html_document
 ---
 
